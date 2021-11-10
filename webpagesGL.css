@@ -1,9 +1,9 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Caleb Rooke
+ *UnityID: crrooke
+ *Date: 11/10/2021
+ *Assignment: Webpages GL
+ *Description: Guided lab assignment, styles for about me website.
  */
  
 p {
@@ -12,11 +12,11 @@ p {
 	color: #FFFFFF;
 }
 
-.table-border {
+#photo-resize {
     max-width: 250px ;
 	max-height: 300px ;
 }
 
-#photo-resize {
+.table-border {
     border: 1px solid #FFFFFF;
 }
